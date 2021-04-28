@@ -1,0 +1,41 @@
+<xml -version 8.0>
+<Class>
+  <StudyGroup>
+    <Name>R3135<\Name>
+    <Coordinates>
+      <X>100.0<\X>
+      <Y>100<\Y>
+    <\Coordinates>
+    <CreationDate>2007-12-03T10:15:30<\CreationDate>
+    <studentsCount>85<\studentsCount>
+    <formOfEducation>EVENING_CLASSES<\formOfEducation>
+    <semesterEnum>FOURTH<\semesterEnum>
+    <Person>
+      <Name>Voronin Vyach<\Name>
+      <weight>5<\weight>
+      <passportID>3125<\passportID>
+      <eyeColor>WHITE<\eyeColor>
+      <Name>Voronin Vyach<\Name>
+      <nationality>JAPAN<\nationality>
+    <\Person>
+  <\StudyGroup>
+  <StudyGroup>
+    <Name>klim<\Name>
+    <Coordinates>
+      <X>1213.0<\X>
+      <Y>12<\Y>
+    <\Coordinates>
+    <CreationDate>2020-07-03T14:48:49.706882500<\CreationDate>
+    <studentsCount>3<\studentsCount>
+    <formOfEducation>FULL_TIME_EDUCATION<\formOfEducation>
+    <semesterEnum>FOURTH<\semesterEnum>
+    <Person>
+      <Name>Voronin Vyach<\Name>
+      <weight>5<\weight>
+      <passportID>3125<\passportID>
+      <eyeColor>WHITE<\eyeColor>
+      <Name>Voronin Vyach<\Name>
+      <nationality>JAPAN<\nationality>
+    <\Person>
+  <\StudyGroup>
+<\Class>
